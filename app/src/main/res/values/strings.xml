@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyBooks</string>
+    <string name="title_home">Libros</string>
+    <string name="title_dashboard">Calendario</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="estados_lectura">
+        <item>Registrado</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>Leído</item>
+    </string-array>
+
+
+    <string name="title_activity_main2">MainActivity2</string>
+
+</resources>

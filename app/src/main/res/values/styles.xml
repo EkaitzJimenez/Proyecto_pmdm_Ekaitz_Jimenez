@@ -1,0 +1,12 @@
+<resources>
+    <!-- Estilo para un botón flotante con esquinas redondeadas -->
+    <style name="fab_3_rounded" parent="ShapeAppearance.MaterialComponents">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Estilo personalizado para un botón -->
+    <style name="Widget.Theme.Proyecto_pmdm_Ekaitz_Jimenez.MyView" parent="Widget.Material3.Button">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+</resources>
