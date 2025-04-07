@@ -5,7 +5,7 @@ Esta App funciona como una biblioteca en tu móvil, puedes almacenar los libros 
 
 ## Requisitos minimos
 
-- Android Studio (Gira bien en versiones recientes, 2023.1+)
+- Android Studio (Última versión)
 - JDK 11
 - SDK Android 24 mínimo
 - Emulador o móvil con Android 7.0+
