@@ -1,6 +1,6 @@
 # MyBooks - Proyecto PMDM UT08-14
 
-Esta App funciona como una librería en tu móvil, puedes almacenar los libros en local e ir actualizando el estado de lectura.
+Esta App funciona como una biblioteca en tu móvil, puedes almacenar los libros en local e ir actualizando el estado de lectura.
 
 
 ## Requisitos minimos
@@ -35,4 +35,4 @@ Android Studio te va a abrir el proyecto y sincronizar las dependencias. Puede t
 La app se abrira en tu emulador o dispositivo si lo tienes conectado por USB.
 
 
-###Developed by Ekaitz Jiménez
+Developed by [Ekaitz Jiménez]
